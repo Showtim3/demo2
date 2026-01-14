@@ -1,1 +1,1 @@
-fjsgnfsjgfj
+console.log("Hello");
