@@ -1,1 +1,1 @@
-console.log("Git class 17 Jan");
+console.log("Hello from Tanishq solved the problem! merge conflict resolved.");
