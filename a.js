@@ -1,2 +1,1 @@
-console.log("Hello from feature-2  , aatif ");
-
+console.log("Hello from feature-2");
