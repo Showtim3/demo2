@@ -1,3 +1,1 @@
-
-console.log("Git class 17 Jan");-resolved
-
+console.log("shah resolved it");
